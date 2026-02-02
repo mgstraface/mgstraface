@@ -12,7 +12,6 @@ fortalecer y ampliar sus habilidades, generando un crecimiento en su vida labora
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgstraface&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mgstraface&icon=0&color=4)](https://visitcount.itsvg.in)
 
